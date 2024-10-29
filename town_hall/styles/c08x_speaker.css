@@ -46,9 +46,12 @@ main {
 
 /* the styles for the section */
 section {
-	width: 575px;
+	width: 67.647%;
 	float: right;
-	padding: 0 20px 20px 20px;
+	padding-top: 0; 
+	padding-bottom: 20px;
+	padding-right: 2.352%;
+	padding-left: 2.352%;
 }
 section h1 {
 	color: #800000;
@@ -70,15 +73,18 @@ article h2 {
 }
 article img {
 	float: right;
-	margin: .5em 0 1em 1em;
+	margin: .5em 0 1em 1.882%;
 	border: 1px solid black;
 }
 
 /* the styles for the aside */
 aside {
-	width: 21%;
+	width: 25.294%;
 	float: right;
-	padding: 0 0 20px 20px;
+	padding-top: 0;
+	padding-bottom: 20px;
+	padding-right: 0;
+	padding-left: 2.352%
 }
 aside h2 {
 	color: #800000;
@@ -100,7 +106,7 @@ aside img {
 	margin-left: 0;
 	margin-bottom: 1.5em; }
 #nav_list ul li { 
-	width: 200px;
+	width: 23.529%;
 	margin-bottom: .5em;
 	border: 2px double black;
 	border-radius: 10px;
@@ -111,7 +117,7 @@ aside img {
 }
 #nav_list ul li a {
 	display: block;
-	padding: .5em 0 .5em .5em;
+	padding: .5em 0 .5em .941%;
 	text-decoration: none;
 	font-weight: bold;
 	color: black;
